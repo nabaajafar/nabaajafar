@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 📘 I always want to learn more.
+- 💡 Looking to contribute in great projects.
+- ❤️ passionate with SDLC.
+- 🔬 Digging into the smalliest detail.
+- 🎯 Looking for new challange.
+
 -->
 
 <h1 align="center">Hi there 👋, I'm Nabaa Busbaih</h1>
@@ -23,6 +30,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabaajafar&label=Profile%20views&color=0e75b6&style=flat" alt="nabaajafar" /> </p>
 
 - 🌱 I’m currently learning **ERPNext and Frappe**
+- 📘 I always want to learn more.
 
 - 📫 How to reach me **nabaajafar3@gmail.com**
 
