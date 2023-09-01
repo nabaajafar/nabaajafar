@@ -45,3 +45,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabaajafar&show_icons=true&theme=dark&locale=en&layout=compact" alt="nabaajafar" /></p>
 
+## Github Stats: 
+<p align="center">
+  <a href="https://github.com/abanoub-ashraf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabaajafar&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabaajafar&&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
