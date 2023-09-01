@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabaajafar&label=Profile%20views&color=0e75b6&style=flat" alt="nabaajafar" /> </p>
-<br> ![visitors](https://visitor-badge.glitch.me/badge?page_id=nabaajafar.nabaajafar) </br>
+
 
 - 🌱 I’m currently learning **ERPNext and Frappe**
 - 📘 passionate to learn more.
 - ⚡ Always have a faith
+- 👯 I’m looking to collaborate on any kind of great project
 
 - 📫 How to reach me **nabaajafar3@gmail.com**
 
