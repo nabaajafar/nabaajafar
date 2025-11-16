@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabaajafar&label=Profile%20views&color=0e75b6&style=flat" alt="nabaajafar" /> </p>
 
 
-- 🌱 I’m currently learning **ERPNext and Frappe**
+- 🌱 I’m currently learning **Automation & AI**
 - 📘 passionate to learn more.
 - ⚡ Always have a faith
 - 👯 I’m looking to collaborate on any kind of great project
